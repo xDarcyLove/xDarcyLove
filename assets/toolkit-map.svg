@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="420" viewBox="0 0 680 420" role="img" aria-label="01 / toolkit constellation">
+<defs><linearGradient id="bk" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0C142A"/><stop offset="1" stop-color="#191631"/></linearGradient></defs>
+<rect x="2" y="2" width="676" height="416" rx="21" fill="url(#bk)" stroke="#4B5083" stroke-opacity=".7"/>
+<path d="M23 71 H657" stroke="#38476C" stroke-width="1"/>
+<circle cx="38" cy="34" r="5" fill="#74DDEB"/><text x="55" y="39" fill="#E8EDFF" font-family="DejaVu Sans, sans-serif" font-size="22" font-weight="bold">01 / toolkit constellation</text>
+<text x="656" y="40" text-anchor="end" fill="#879BBB" font-family="DejaVu Sans Mono, monospace" font-size="12">xDarcyLove / visual map</text>
+<polygon points="340.0,175.0 374.6,195.0 374.6,235.0 340.0,255.0 305.4,235.0 305.4,195.0" fill="none" stroke="#44517C" stroke-width="1.2" opacity="0.8373983739837398"/>
+<polygon points="340.0,135.0 409.3,175.0 409.3,255.0 340.0,295.0 270.7,255.0 270.7,175.0" fill="none" stroke="#44517C" stroke-width="1.2" opacity="0.6747967479674797"/>
+<polygon points="340.0,92.0 446.5,153.5 446.5,276.5 340.0,338.0 233.5,276.5 233.5,153.5" fill="none" stroke="#44517C" stroke-width="1.2" opacity="0.5"/><line x1="340" y1="215" x2="340.0" y2="92.0" stroke="#465277" stroke-width="1" opacity=".8"/>
+<line x1="340" y1="215" x2="446.5" y2="153.5" stroke="#465277" stroke-width="1" opacity=".8"/>
+<line x1="340" y1="215" x2="446.5" y2="276.5" stroke="#465277" stroke-width="1" opacity=".8"/>
+<line x1="340" y1="215" x2="340.0" y2="338.0" stroke="#465277" stroke-width="1" opacity=".8"/>
+<line x1="340" y1="215" x2="233.5" y2="276.5" stroke="#465277" stroke-width="1" opacity=".8"/>
+<line x1="340" y1="215" x2="233.5" y2="153.5" stroke="#465277" stroke-width="1" opacity=".8"/>
+<polygon points="340.0,92.0 446.5,153.5 446.5,276.5 340.0,338.0 233.5,276.5 233.5,153.5" fill="#74DDEB" fill-opacity=".08" stroke="#74DDEB" stroke-width="2.8" stroke-opacity=".85"/>
+<circle cx="340.0" cy="92.0" r="7.5" fill="#74DDEB" stroke="#0B1327" stroke-width="3"/><text x="340.0" y="57.0" text-anchor="middle" fill="#DCE7FA" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="bold">Python</text><circle cx="446.5" cy="153.5" r="7.5" fill="#74DDEB" stroke="#0B1327" stroke-width="3"/><text x="482.0" y="136.0" text-anchor="start" fill="#DCE7FA" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="bold">Playwright</text><circle cx="446.5" cy="276.5" r="7.5" fill="#74DDEB" stroke="#0B1327" stroke-width="3"/><text x="482.0" y="294.0" text-anchor="start" fill="#DCE7FA" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="bold">Requests</text><circle cx="340.0" cy="338.0" r="7.5" fill="#74DDEB" stroke="#0B1327" stroke-width="3"/><text x="340.0" y="373.0" text-anchor="middle" fill="#DCE7FA" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="bold">VS Code</text><circle cx="233.5" cy="276.5" r="7.5" fill="#74DDEB" stroke="#0B1327" stroke-width="3"/><text x="198.0" y="294.0" text-anchor="end" fill="#DCE7FA" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="bold">Git</text><circle cx="233.5" cy="153.5" r="7.5" fill="#F18DC1" stroke="#0B1327" stroke-width="3"/><text x="198.0" y="136.0" text-anchor="end" fill="#DCE7FA" font-family="DejaVu Sans, sans-serif" font-size="16" font-weight="bold">Rust (explorando)</text>
+<circle cx="340" cy="215" r="28" fill="#0E1930" stroke="#74DDEB" stroke-width="2"/>
+<text x="340" y="221" text-anchor="middle" fill="#E4F1FC" font-family="DejaVu Sans Mono, monospace" font-size="18" font-weight="bold">&gt;_</text>
+<text x="340" y="395" text-anchor="middle" fill="#8F9DC0" font-family="DejaVu Sans Mono, monospace" font-size="13">Mapa conceptual · no mide nivel ni experiencia</text>
+</svg>
