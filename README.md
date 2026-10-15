@@ -1,106 +1,159 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A0B1020%2C50%3A5425A8%2C100%3A0891B2&amp;height=260&amp;section=header&amp;text=xDarcy&amp;fontColor=F3F4FF&amp;fontSize=74&amp;fontAlignY=40&amp;desc=Backend%20%7C%20Automation%20%7C%20SaaS&amp;descAlignY=62&amp;descSize=20&amp;animation=twinkling" width="100%" alt="xDarcy | Backend, Automation, SaaS" />
-  <br />
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;pause=1200&amp;color=72D9F6&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Python+%2B+automation+%2B+backend%3BBuilding+software+inside+VS+Code%3BSaaS+%2B+integrations+%2B+tooling%3BPrivate+repositories.+Public+curiosity." alt="Python, automatización, backend y proyectos privados" />
-  </a>
-  <br /><br />
-  <img alt="Proyectos privados" src="https://img.shields.io/badge/REPOS-PRIVATE-8B5CF6?style=flat-square&amp;labelColor=111827" />
-  <img alt="Desarrollo activo" src="https://img.shields.io/badge/STATUS-BUILDING-14B8A6?style=flat-square&amp;labelColor=111827" />
-  <img alt="Foco en software" src="https://img.shields.io/badge/FOCUS-BACKEND%20%26%20AUTOMATION-38BDF8?style=flat-square&amp;labelColor=111827" />
-</div>
+
+<img src="assets/banner.svg" alt="xDarcyLove | Backend, Automation, SaaS" width="100%" />
 
 <br />
 
-<table>
-  <tr>
-    <td width="53%" valign="top">
-      <h3>✦ <code>whoami</code></h3>
-      <p>Soy <b>xDarcy</b>. Me gusta entender cómo funcionan las cosas y convertir problemas reales en herramientas digitales.</p>
-      <p>Trabajo con <b>Python</b> para automatización, consumo de servicios HTTP y prototipos de integraciones. Desarrollo y pruebo mis ideas principalmente en <b>Visual Studio Code</b>.</p>
-      <p>Me interesan la ingeniería <b>backend</b>, la seguridad, las APIs y los productos <b>SaaS</b>. También estoy explorando <b>Rust</b>.</p>
-      <p><code>build_mode = "private"</code> · Comparto lo que hago, no necesariamente el código.</p>
-    </td>
-    <td width="47%" valign="middle">
-      <h3><code>xdarcy@vscode ~</code></h3>
-      <pre>
-&gt; editor: VS Code
-&gt; stack: Python
-&gt; web: Playwright
-&gt; http: Requests
-&gt; learning: Rust
-&gt; visibility: private
-      </pre>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/xDarcyLove"><img alt="GitHub xDarcyLove" src="https://img.shields.io/badge/GitHub-%40xDarcyLove-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+<img alt="Python" src="https://img.shields.io/badge/Python-main_stack-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+<img alt="VS Code" src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" />
+<img alt="Private projects" src="https://img.shields.io/badge/Projects-private_by_design-9D74D9?style=for-the-badge" />
 
-## `01 /` Tech & tooling
+<br /><br />
 
-<div align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-172554?style=for-the-badge&amp;logo=python&amp;logoColor=FACC15" />
-  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-153C35?style=for-the-badge&amp;logo=playwright&amp;logoColor=8CE8BB" />
-  <img alt="Requests" src="https://img.shields.io/badge/Requests-234259?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-16375B?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=62C2FF" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-42212B?style=for-the-badge&amp;logo=git&amp;logoColor=F87171" />
-  <img alt="Rust - explorando" src="https://img.shields.io/badge/Rust-explorando-34343F?style=for-the-badge&amp;logo=rust&amp;logoColor=E9DECF" />
+**`Build quietly. Learn constantly. Ship thoughtfully.`**
+
+*Python · Automation · HTTP integrations · Backend · SaaS*
+
 </div>
 
-<br />
+---
 
-| Área | Lo que uso o exploro |
-|:--|:--|
-| **Lenguaje principal** | Python · scripts, pruebas y automatización |
-| **Navegador automatizado** | Playwright · flujos web y prototipos |
-| **HTTP & datos** | Requests · integración y procesamiento de respuestas |
-| **Entorno de trabajo** | Visual Studio Code · Git / GitHub |
-| **En exploración** | Rust · rendimiento, servicios backend y seguridad |
+## `$ whoami`
 
-## `02 /` Projects behind the scenes
+```console
+xDarcyLove@vscode:~$ whoami
+xDarcy  •  Developer / Builder
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🚚 TryGo</h3>
-      <p><code>SaaS · logística</code></p>
-      <p>Proyecto orientado a la gestión de empresas de reparto: operaciones administrativas, equipos, sedes, suscripciones y cobros.</p>
-      <p><b>En evolución:</b> nuevos flujos para gestionar entregas.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚙️ Automation Lab</h3>
-      <p><code>Python · Playwright</code></p>
-      <p>Experimentos y utilidades de consola para automatizar tareas, interactuar con páginas web y procesar resultados.</p>
-      <p><b>Enfoque:</b> robustez, validación y uso responsable de datos.</p>
-    </td>
-    <td width="34%" valign="top">
-      <h3>🔌 Data Integrations</h3>
-      <p><code>Python · Requests · HTTP</code></p>
-      <p>Prototipos de consulta de información empresarial (RUC) y tipos de cambio publicados por SUNAT.</p>
-      <p><b>Enfoque:</b> integración, formatos de respuesta y manejo de errores.</p>
-    </td>
-  </tr>
-</table>
+xDarcyLove@vscode:~$ cat mission.txt
+Construyo herramientas que resuelven problemas reales.
+Me gusta explorar cómo funcionan los sistemas,
+automatizar procesos y aprender construyendo.
+```
 
-> 🔒 **Private by design.** Estos son resúmenes generales de líneas de trabajo; los repositorios, las implementaciones y los datos sensibles no son públicos. Las funcionalidades futuras se presentan como objetivos, no como entregables terminados.
+¡Hola! Soy **xDarcy** 👋. Trabajo principalmente con **Python** en scripts, automatización de navegador y consumo de servicios HTTP. Desarrollo y pruebo mis ideas en **Visual Studio Code**. Me interesan las **APIs**, la arquitectura backend, la seguridad y los productos SaaS. Estoy explorando **Rust**, todavía en etapa de aprendizaje.
 
-## `03 /` What I'm improving
+> 🔐 **Private by design:** gran parte de mi trabajo vive en repositorios privados. Aquí comparto mis áreas de trabajo y aprendizajes, no código confidencial ni datos personales.
 
-- **Python & automation:** scripts, pruebas y herramientas que reducen tareas repetitivas.
-- **Integraciones HTTP:** tratamiento de respuestas, validación y manejo de fallos.
-- **Diseño backend:** organización del código, seguridad y mantenibilidad.
-- **Rust:** investigación y aprendizaje; no lo presento como experiencia de producción.
+---
 
-## `04 /` My approach
+## `$ cat tech-stack.yaml`
 
-```python
-def build_software(problem):
-    understand(problem)
-    prototype_with("Python", editor="VS Code")
-    test_and_refine()
-    return "keep building"
+```yaml
+identity:
+  alias: xDarcy
+  github: "@xDarcyLove"
+  workspace: "Visual Studio Code"
+
+languages:
+  active:
+    - Python
+  learning:
+    - Rust
+
+tooling:
+  browser_automation:
+    - Playwright
+  http_clients:
+    - Requests
+  version_control:
+    - Git
+    - GitHub
+
+interests:
+  - Backend architecture
+  - HTTP APIs & integrations
+  - Automation & reliability
+  - Security & privacy
+  - SaaS products
+
+projects:
+  visibility: private
+  main_focus: TryGo
 ```
 
 <div align="center">
+  <img alt="Python" src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+  <br />
+  <sub>Mi caja de herramientas actual · Rust es una tecnología que sigo explorando</sub>
+</div>
+
+---
+
+## `$ ./map --toolkit --focus`
+
+<table>
+<tr>
+<td width="50%"><img src="assets/toolkit-map.svg" alt="Mapa temático de tecnologías: Python, Playwright, Requests, VS Code, Git y Rust en exploración" width="100%" /></td>
+<td width="50%"><img src="assets/focus-map.svg" alt="Mapa temático de intereses: automatización, APIs, backend, seguridad, TryGo y Rust en exploración" width="100%" /></td>
+</tr>
+</table>
+
+<sub>Gráficos originales inspirados en la presentación visual de perfiles de desarrollo. Son **mapas conceptuales**, no puntuaciones de dominio, años de experiencia ni métricas de productividad.</sub>
+
+---
+
+## `$ ls -la ~/projects/private/`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>🚚 TryGo</h3>
+<code>SaaS / Logística</code><br /><br />
+Producto orientado a empresas de reparto. Incluye trabajo en gestión administrativa, roles, sedes, suscripciones y cobros.<br /><br />
+<sub>Próximo enfoque: gestión operativa de envíos y entregas.</sub>
+</td>
+<td width="33%" valign="top">
+<h3>⚙️ Automation Lab</h3>
+<code>Python / Playwright</code><br /><br />
+Prototipos de automatización web y herramientas de consola para pruebas, flujos repetitivos y procesamiento de resultados.<br /><br />
+<sub>Enfoque: validación, estabilidad y uso responsable.</sub>
+</td>
+<td width="34%" valign="top">
+<h3>🔌 Data Integrations</h3>
+<code>Python / Requests / HTTP</code><br /><br />
+Experimentos de integración con información empresarial (RUC) y tipos de cambio publicados por SUNAT.<br /><br />
+<sub>Enfoque: formatos, errores y manejo seguro de datos.</sub>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔎 ¿Por qué no hay enlaces a esos proyectos?</b></summary>
+<br />
+Los repositorios son privados. Sus descripciones son generales; no implican que todas las funcionalidades previstas ya estén publicadas o terminadas. No comparto credenciales, datos personales ni código interno en este perfil.
+</details>
+
+---
+
+## `$ code --status`
+
+```diff
++ Construyendo software con Python y VS Code
++ Mejorando integraciones HTTP y manejo de errores
++ Diseñando y evolucionando flujos de TryGo
+~ Estudiando Rust y arquitectura backend
+~ Profundizando en seguridad y buenas prácticas
+```
+
+## `$ cat dev-philosophy.py`
+
+```python
+def approach(problem):
+    understand(problem)
+    prototype(language="Python", editor="VS Code")
+    validate_results()
+    improve_reliability()
+    return "keep building"
+```
+
+---
+
+## `$ connect --socials`
+
+<div align="center">
+  <a href="https://github.com/xDarcyLove"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-View%20profile-151B30?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+  <br /><br />
   <sub>Less noise. More learning. Better systems.</sub><br />
-  <sub>Made with ☕ and many VS Code tabs · xDarcy</sub>
+  <sub>Made with ☕ and too many VS Code tabs — <b>xDarcy</b></sub>
 </div>
