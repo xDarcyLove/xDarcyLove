@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="xDarcyLove developer banner">
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#080C1E"/><stop offset=".6" stop-color="#15112F"/><stop offset="1" stop-color="#080D21"/></linearGradient>
+ <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#76E4F7"/><stop offset=".55" stop-color="#B8A1F9"/><stop offset="1" stop-color="#FF7CBA"/></linearGradient>
+ <pattern id="grid" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M31 0H0V31" fill="none" stroke="#8E91B0" stroke-width="0.65" opacity=".13"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="25"/></filter>
+ <clipPath id="window"><rect x="714" y="53" width="430" height="245" rx="15"/></clipPath>
+</defs>
+<rect width="1200" height="350" fill="url(#bg)"/>
+<ellipse cx="190" cy="-12" rx="280" ry="95" fill="#5A2F98" opacity=".25" filter="url(#glow)"/>
+<ellipse cx="1130" cy="330" rx="220" ry="105" fill="#20A1BA" opacity=".18" filter="url(#glow)"/>
+<rect width="1200" height="350" fill="url(#grid)"/>
+<path d="M0 328H1200" stroke="#8B82B8" stroke-opacity=".22"/>
+<rect x="51" y="50" width="153" height="27" rx="13.5" fill="#1B283E" stroke="#365073"/>
+<circle cx="69" cy="63.5" r="4" fill="#79EBD3"/><text x="82" y="68" fill="#D9E4FA" font-family="DejaVu Sans, sans-serif" font-size="10" letter-spacing="1.2">DEV WORKSPACE</text>
+<text x="51" y="161" fill="#E9F2FF" font-family="DejaVu Sans, sans-serif" font-size="70" font-weight="bold" letter-spacing="-4">xDarcy</text>
+<text x="321" y="161" fill="url(#accent)" font-family="DejaVu Sans, sans-serif" font-size="70" font-weight="bold" letter-spacing="-3">Love</text>
+<rect x="54" y="179" width="480" height="3" rx="2" fill="url(#accent)" opacity=".84"/>
+<text x="53" y="218" fill="#D1DDF5" font-family="DejaVu Sans, sans-serif" font-size="18">Backend  /  Automation  /  SaaS</text>
+<text x="53" y="254" fill="#8DA3C4" font-family="DejaVu Sans Mono, monospace" font-size="15">&gt; code --editor vscode --mode private</text>
+<text x="54" y="301" fill="#9AAED2" font-family="DejaVu Sans Mono, monospace" font-size="12">PYTHON     PLAYWRIGHT     REQUESTS     RUST: LEARNING</text>
+<g clip-path="url(#window)">
+ <rect x="713" y="53" width="431" height="245" rx="15" fill="#101A2E" stroke="#6875AC"/>
+ <rect x="714" y="53" width="430" height="33" fill="#1C2740"/>
+ <circle cx="738" cy="69" r="5" fill="#FF7B8F"/><circle cx="757" cy="69" r="5" fill="#FFC079"/><circle cx="776" cy="69" r="5" fill="#7CDFC0"/>
+ <text x="846" y="74" fill="#B4C8E6" font-size="12" font-family="DejaVu Sans Mono, monospace">profile.py — VS Code</text>
+ <rect x="714" y="86" width="45" height="211" fill="#172139"/>
+ <g fill="none" stroke="#7494D1" stroke-width="2" opacity=".75"><rect x="728" y="103" width="15" height="17" rx="2"/><path d="M728 132h16m-16 5h16m-16 5h16M732 157l-6 7 6 7m10-14 6 7-6 7"/></g>
+ <text x="779" y="112" fill="#7791B7" font-family="DejaVu Sans Mono, monospace" font-size="12">01</text>
+ <text x="813" y="112" fill="#C690F2" font-family="DejaVu Sans Mono, monospace" font-size="12">class</text>
+ <text x="854" y="112" fill="#F2D19B" font-family="DejaVu Sans Mono, monospace" font-size="12">Developer</text>
+ <text x="921" y="112" fill="#DBE9FE" font-family="DejaVu Sans Mono, monospace" font-size="12">:</text>
+ <text x="779" y="138" fill="#7791B7" font-family="DejaVu Sans Mono, monospace" font-size="12">02</text><text x="823" y="138" fill="#B3E7FB" font-family="DejaVu Sans Mono, monospace" font-size="12">name</text><text x="860" y="138" fill="#D2E3F6" font-family="DejaVu Sans Mono, monospace" font-size="12">=</text><text x="879" y="138" fill="#96D6C0" font-family="DejaVu Sans Mono, monospace" font-size="12">"xDarcy"</text>
+ <text x="779" y="164" fill="#7791B7" font-family="DejaVu Sans Mono, monospace" font-size="12">03</text><text x="823" y="164" fill="#B3E7FB" font-family="DejaVu Sans Mono, monospace" font-size="12">stack</text><text x="867" y="164" fill="#D2E3F6" font-family="DejaVu Sans Mono, monospace" font-size="12">=</text><text x="883" y="164" fill="#96D6C0" font-family="DejaVu Sans Mono, monospace" font-size="12">["Python", "HTTP"]</text>
+ <text x="779" y="190" fill="#7791B7" font-family="DejaVu Sans Mono, monospace" font-size="12">04</text><text x="823" y="190" fill="#B3E7FB" font-family="DejaVu Sans Mono, monospace" font-size="12">building</text><text x="898" y="190" fill="#D2E3F6" font-family="DejaVu Sans Mono, monospace" font-size="12">=</text><text x="917" y="190" fill="#96D6C0" font-family="DejaVu Sans Mono, monospace" font-size="12">"TryGo"</text>
+ <text x="779" y="216" fill="#7791B7" font-family="DejaVu Sans Mono, monospace" font-size="12">05</text><text x="823" y="216" fill="#BEA8F6" font-family="DejaVu Sans Mono, monospace" font-size="12">def</text><text x="855" y="216" fill="#FFBCD8" font-family="DejaVu Sans Mono, monospace" font-size="12">create</text><text x="908" y="216" fill="#EAF0FB" font-family="DejaVu Sans Mono, monospace" font-size="12">(self):</text>
+ <text x="779" y="242" fill="#7791B7" font-family="DejaVu Sans Mono, monospace" font-size="12">06</text><text x="851" y="242" fill="#C8D8F6" font-family="DejaVu Sans Mono, monospace" font-size="12">return</text><text x="905" y="242" fill="#96D6C0" font-family="DejaVu Sans Mono, monospace" font-size="12">"keep building"</text>
+ <rect x="714" y="278" width="430" height="20" fill="#1F3152"/><text x="732" y="292" fill="#B3E0F2" font-family="DejaVu Sans Mono, monospace" font-size="10">⚡ Python</text><text x="999" y="292" fill="#B3E0F2" font-family="DejaVu Sans Mono, monospace" font-size="10">UTF-8  ·  main</text>
+</g>
+<rect x="713.5" y="53" width="430" height="245" rx="15" fill="none" stroke="#748EB8" stroke-opacity=".6"/>
+<text x="1145" y="322" text-anchor="end" font-size="11" fill="#8EA4D4" font-family="DejaVu Sans Mono, monospace">github.com/xDarcyLove</text>
+</svg>
